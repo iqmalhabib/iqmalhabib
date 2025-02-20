@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Iqmal Habib</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqmalhabib&label=Profile%20views&color=0e75b6&style=flat" alt="iqmalhabib" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iqmalhabib" alt="iqmalhabib" /></a> </p>
 
 - 🔭 I’m currently working on **vue**
